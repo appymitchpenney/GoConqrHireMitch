@@ -24,7 +24,6 @@ Required
 [COMPLETE] - GET a list of events.
 [COMPLETE] - POST a new event.
 [COMPLETE] - DELETE an existing event.
-
 [COMPLETE] The application should display validation errors when appropriate.
 
 ------
