@@ -7,6 +7,8 @@ Android application for GoConqr
 This repo is for the GoConqrHireMitch application as requested by GoConqr. 
 Below is a list of the requested criteria as well as a justification of the work I've done.
 
+I would recommend using a Nexus 6 with API 23 (Google API's included).
+
 -------------
 Android Assignment
 
