@@ -21,30 +21,47 @@ In addition to all fields being required the end time must not be before start t
 Required
 
 > Write an Android application in Java that can:
+
 [COMPLETE] - GET a list of events.
+
 [COMPLETE] - POST a new event.
+
 [COMPLETE] - DELETE an existing event.
+
 [COMPLETE] The application should display validation errors when appropriate.
+
 
 ------
 Desired
 
 > The application should deal gracefully:
+
 [COMPLETE] - If no connection is available.
+
 [COMPLETE] -  If the server can’t be reached.
+
 [COMPLETE] - If the server provides a bad response.
+
 [COMPLETE] • The application should be source controlled using git. (Extra brownie points for regular commits clearly tracking your progress)
+
 [COMPLETE] • The application includes a nice clean UI.
+
 [INCOMPLETE] • The application uses both activities and fragments
+
 
 ------
 You're a rockstar if...
 
 [COMPLETE] • You have rolled your own network implementation using HttpUrlConnection
+
 [COMPLETE] • The application handles offline mode by caching requests so the user can view cached events if no connection is available
+
 [INCOMPLETE] • The UI is beautiful
+
 [INCOMPLETE] • You have implemented a crash reporting mechanism (perhaps using a 3rd party library)
+
 [INCOMPLETE] • You have used smooth and slick animations for transitions / touch events
+
 
 -------------
 Justification:
